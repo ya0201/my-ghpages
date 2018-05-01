@@ -9,7 +9,7 @@ canonifyurls = true
 
 [params]
     author = "ya0201"
-    description = "Profile site"
+    description = "This is my profile site."
     githubUsername = "#"
     accent = "red"
     showBorder = true
